@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Lustful Cup of Coffee - Free Chapter</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: url('background-image.jpg') no-repeat center center/cover;
+      color: #fefefe;
+      padding: 2rem;
+      text-align: center;
+      margin: 0;
+    }
+    .container {
+      background-color: rgba(0, 0, 0, 0.65);
+      max-width: 700px;
+      margin: auto;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+    }
+    img {
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+    input[type="text"], input[type="email"] {
+      width: 90%;
+      padding: 12px;
+      margin: 10px 0;
+      border: none;
+      border-radius: 5px;
+      font-size: 1rem;
+    }
+    button {
+      padding: 12px 24px;
+      background-color: #c19a6b;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 1rem;
+      font-size: 1rem;
+    }
+    button:hover {
+      background-color: #a97d55;
+    }
+    a {
+      color: #c19a6b;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .links, .books, .promo {
+      margin-top: 2rem;
+    }
+    .books a {
+      display: block;
+      margin: 0.5rem 0;
+    }
+    h1, h3 {
+      color: #f2e3d5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Love, Passion, and a Steamy Cup of Coffee – Get a Free Chapter Today!</h1>
+    <img src="book-cover.jpg" alt="A Lustful Cup of Coffee Cover" width="300">
+    <p>Start your journey with <em>A Lustful Cup of Coffee</em>, a tantalizing tale of love, ambition, and temptation. Perfect for fans of emotional romance, this exclusive sneak peek will leave you craving more.</p>
+
+    <!-- ConvertKit Form Embed -->
+    <form action="https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions" method="post">
+      <input type="text" name="fields[first_name]" placeholder="Name">
+      <input type="email" name="email" placeholder="Email" required>
+      <button type="submit">Send Me the Free Chapter!</button>
+    </form>
+
+    <div class="links">
+      <h3>Connect With Me</h3>
+      <a href="https://www.amazon.com/author/kingwilliam" target="_blank">Amazon Author Central</a><br>
+      <a href="https://www.facebook.com/lustfulcoffee" target="_blank">Facebook Like Page</a>
+    </div>
+
+    <div class="promo">
+      <h3>Watch the Promo</h3>
+      <video controls width="100%">
+        <source src="promo-video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+
+    <div class="books">
+      <h3>Other Books by King William & Yvette Ricard</h3>
+      <a href="https://www.amazon.com/Our-book-Poetry-king-william-ebook/dp/B077CRMZ2C?ref_=ast_author_dp_rw" target="_blank">Our Book of Poetry</a>
+      <a href="https://www.amazon.com/Guilty-Association-King-William-ebook/dp/B019WN1KVS?ref_=ast_author_dp_rw" target="_blank">Guilty by Association</a>
+      <a href="https://www.amazon.com/Taking-chances-King-William-ebook/dp/B00LITNKZE?ref_=ast_author_dp_rw" target="_blank">Taking Chances</a>
+      <a href="https://www.amazon.com/Aint-Love-this-Town-Area-ebook/dp/B01F7FZF4S?ref_=ast_author_dp_rw" target="_blank">Ain't Love This Town (Area 1)</a>
+      <a href="https://www.amazon.com/Aint-Love-this-Town-Part-ebook/dp/B071YBMZLT?ref_=ast_author_dp_rw" target="_blank">Ain't Love This Town (Part 2)</a>
+      <a href="https://www.amazon.com/How-Publish-Your-Own-Novel-ebook/dp/B01KI6XNDG?ref_=ast_author_dp_rw" target="_blank">How to Publish Your Own Novel</a>
+      <a href="https://www.amazon.com/A-Lustful-Cup-of-Coffee/dp/B0757536J3/ref=tmm_aud_swatch_0" target="_blank">A Lustful Cup of Coffee</a>
+    </div>
+  </div>
+</body>
+</html>
